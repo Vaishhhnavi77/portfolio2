@@ -8,7 +8,7 @@ const projects = [
     title: "Atharva Computer Institution Website",
     description: "A professional website for Atharva Computer Institute with real tuition users. Built with modern web technologies for optimal user experience.",
     tech: ["React.js", "Tailwind CSS", "JavaScript", "Responsive Design"],
-    liveUrl: "https://www.atharvacomputerinstitutebhosari.in/",
+    liveUrl: "https://atharvacomputerinstituteofficial.netlify.app/",
     githubUrl: "https://github.com/Vaishhhnavi77/atharva-web",
     featured: true,
     category: "Freelance"
@@ -198,4 +198,5 @@ export const ProjectsSection = () => {
       </div>
     </section>
   );
+
 };
